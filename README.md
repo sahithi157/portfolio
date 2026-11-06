@@ -29,6 +29,10 @@ I am passionate about web development, artificial intelligence, and game develop
 
 This portfolio was created to showcase my skills, introduce myself, and share my learning journey as a computer science student.
 
+## 📸 Website Preview
+
+![My Portfolio](portfolio-preview.png)
+
 ## 👩‍🎓 Author
 
 **Laxmi Sahithi**
